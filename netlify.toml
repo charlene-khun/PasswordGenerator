@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/PasswordGenerator.html"
+status = 200
